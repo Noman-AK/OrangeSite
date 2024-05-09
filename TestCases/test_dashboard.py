@@ -16,3 +16,6 @@ class test_dashboard:
         for n in range(2, total_rows + 1):
             sideBarOptions = Excel_data_managers.readData(file, 'Sidebar', n, 1)
             print(sideBarOptions)
+        for n in range(2, total_rows + 1):
+            sideBarOptions = Excel_data_managers.readData(file, 'Sidebar', n, 1)
+            print(sideBarOptions)
