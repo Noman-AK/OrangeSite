@@ -43,4 +43,3 @@ class Test_Login:
                 testSidebar=test_dashboard()
                 testSidebar.options(self)
             time.sleep(2)
-
